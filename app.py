@@ -299,4 +299,5 @@ def update_graphs(selected_grade, selected_ecoscore):
     return scatter_fig, hist_fig, box_fig, ecoscore_fig, radar_fig
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True, host='0.0.0.0', port=8080)
+
