@@ -1,6 +1,7 @@
 # NestleNutriEcoDashboard
 
 NestleNutriEcoDashboard is an interactive visualization tool designed to analyze Nestlé food products' NutriScore and EcoScore. This dashboard allows users to explore nutritional and ecological data through various interactive charts, including scatter plots, histograms, and radar charts.
+You can find the app up and running here: https://nestlenutritionecodashboard.onrender.com/
 
 ## Features
 
